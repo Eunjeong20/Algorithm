@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.StringTokenizer;
 public class Main
 {
-	public static void main(String[] args) throws IOException {
+	public static void BOJ_30019(String[] args) throws IOException {
         
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
